@@ -1,0 +1,15 @@
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/bin/Debug/net7.0/emonopoly
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/bin/Debug/net7.0/emonopoly.deps.json
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/bin/Debug/net7.0/emonopoly.runtimeconfig.json
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/bin/Debug/net7.0/emonopoly.dll
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/bin/Debug/net7.0/emonopoly.pdb
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.csproj.AssemblyReference.cache
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.AssemblyInfoInputs.cache
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.AssemblyInfo.cs
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.csproj.CoreCompileInputs.cache
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.dll
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/refint/emonopoly.dll
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.pdb
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/emonopoly.genruntimeconfig.cache
+/Users/saveliymiheev/Projects/emonopoly/emonopoly/obj/Debug/net7.0/ref/emonopoly.dll
